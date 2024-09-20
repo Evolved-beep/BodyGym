@@ -1,0 +1,46 @@
+[
+    {
+      "name": "Easy Start",
+      "price": 119,
+      "features": [
+        "Visit without restrictions 24/7",
+        "Individual training program",
+        "Access to the VTRAINER application"
+      ],
+      "buttonText": "Buy"
+    },
+    {
+      "name": "Advanced Plan",
+      "price": 149,
+      "features": [
+        "Everything in Easy Start",
+        "Group fitness classes",
+        "Access to the VIP sauna",
+        "Personal diet plan"
+      ],
+      "buttonText": "Buy"
+    },
+    {
+      "name": "Pro Plan",
+      "price": 199,
+      "features": [
+        "Everything in Advanced Plan",
+        "One-on-one coaching sessions",
+        "Custom workout plans",
+        "Priority equipment booking"
+      ],
+      "buttonText": "Buy"
+    },
+    {
+      "name": "Epic Plan",
+      "price": 250,
+      "features": [
+        "Everything in Epic Plan",
+        "Handle your progress",
+        "Access to the VIP sauna",
+        "Personal diet plan"
+      ],
+      "buttonText": "Buy"
+    }
+  ]
+  
