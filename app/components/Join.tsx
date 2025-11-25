@@ -3,10 +3,12 @@ import JoinPrograms from './JoinPrograms'
 
 const Join = () => {
   return (
-    <section className='flex flex-col justify-center items-center w-3/5 m-auto'>
-        <h1 className='font-bold text-3xl mb-5'>Reasons to join</h1>
-        <JoinPrograms />
-    </section>
+   <section className='flex flex-col justify-center items-center w-full px-6 md:px-12 lg:w-3/5 m-auto py-16'>
+    <h1 className='font-bold text-3xl md:text-4xl lg:text-5xl mb-10 text-center'>
+      Reasons to join
+    </h1>
+    <JoinPrograms />
+  </section>
   )
 }
 
